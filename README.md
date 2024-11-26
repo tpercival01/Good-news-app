@@ -2,18 +2,19 @@
 A Python application that fetches and displays positive news articles. Built with Tkinter for the GUI, utilizes Pandas for data handling, NLTK for sentiment analysis, and integrates with the News API to fetch the latest news.
 
 ## Features
-Fetches the latest news articles using the News API.
-Filters articles to display only those with positive sentiment.
-User-friendly interface built with Tkinter.
-Efficient data handling with Pandas.
-Sentiment analysis powered by NLTK.
+- Fetches the latest news articles using the News API.
+- Filters articles to display only those with positive sentiment.
+- User-friendly interface built with Tkinter.
+- Efficient data handling with Pandas.
+- Sentiment analysis powered by NLTK.
 
 ## Requirements
-Python 3.x
-Tkinter
-Pandas
-NLTK
-News API Key
+
+- Python 3.x
+- Tkinter
+- Pandas
+- NLTK
+- News API Key
 
 ## Installation
 Clone the Repository

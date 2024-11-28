@@ -60,6 +60,12 @@ python main.py
 - Click on the Fetch News button to retrieve positive news articles.
 - Browse through the displayed articles using the navigation buttons.
 
+## Future
+- Create a better GUI (Perhaps a website).
+- Clean up the current GUI
+- Add other sources, i.e. Reddit, Twitter.
+- Add a database to allow for historic reading.
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.

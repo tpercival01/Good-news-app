@@ -47,6 +47,8 @@ nltk.download('vader_lexicon')
 - Open the data.py file.
 - Replace 'YOUR_NEWS_API_KEY' with your actual API key.
 
+## 🤝 Contributing
+
 ## Usage
 Run the Application
 
